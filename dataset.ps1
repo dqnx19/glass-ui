@@ -1,6 +1,6 @@
 $files = @(
     @{
-        source = "creative-inventory.player-inventory.png"
+        source = "container/creative-inventory.player-inventory.png"
         target = @(
             # 26
             "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
@@ -9,22 +9,22 @@ $files = @(
             "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
             
             # 1.21
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
             "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
         )
     },
     @{
-        source = "creative-inventory.search.png"
+        source = "container/creative-inventory.search.png"
         target = @(
             # 26
             "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
@@ -33,22 +33,22 @@ $files = @(
             "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
 
             # 1.21
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
             "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
         )
     },
     @{
-        source = "creative-inventory.items.png"
+        source = "container/creative-inventory.items.png"
         target = @(
             # 26
             "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
@@ -57,18 +57,83 @@ $files = @(
             "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
             
             # 1.21
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
             "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+        )
+    },
+    @{
+        source = "button/button.disabled.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "26.1/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+            "26.2/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+        )
+    },
+
+    @{
+        source = "button/button.highlighted.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "26.1/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+            "26.2/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+        )
+    },
+
+    @{
+        source = "button/button.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "26.1/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/widget/button.png"
+            "26.2/assets/minecraft/textures/gui/sprites/widget/button.png"
         )
     }
 )
