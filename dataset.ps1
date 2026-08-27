@@ -1,77 +1,5 @@
 $files = @(
     @{
-        source = "container/creative-inventory.player-inventory.png"
-        target = @(
-            # 26
-            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            
-            # 1.21
-            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-        )
-    },
-    @{
-        source = "container/creative-inventory.search.png"
-        target = @(
-            # 26
-            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-
-            # 1.21
-            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-        )
-    },
-    @{
-        source = "container/creative-inventory.items.png"
-        target = @(
-            # 26
-            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            
-            # 1.21
-            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-        )
-    },
-    @{
         source = "button/button.disabled.png"
         target = @(
             "1.21/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
@@ -134,6 +62,443 @@ $files = @(
             "26.1.1/assets/minecraft/textures/gui/sprites/widget/button.png"
             "26.1.2/assets/minecraft/textures/gui/sprites/widget/button.png"
             "26.2/assets/minecraft/textures/gui/sprites/widget/button.png"
+        )
+    },
+    @{
+        source = "container/anvil.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.1/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.2/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.3/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.4/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.5/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.6/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.7/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.8/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.9/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.10/assets/minecraft/textures/gui/container/anvil.png"
+            "1.21.11/assets/minecraft/textures/gui/container/anvil.png"
+            "26.1/assets/minecraft/textures/gui/container/anvil.png"
+            "26.1.1/assets/minecraft/textures/gui/container/anvil.png"
+            "26.1.2/assets/minecraft/textures/gui/container/anvil.png"
+            "26.2/assets/minecraft/textures/gui/container/anvil.png"
+        )
+    },
+
+    @{
+        source = "container/beacon.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.1/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.2/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.3/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.4/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.5/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.6/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.7/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.8/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.9/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.10/assets/minecraft/textures/gui/container/beacon.png"
+            "1.21.11/assets/minecraft/textures/gui/container/beacon.png"
+            "26.1/assets/minecraft/textures/gui/container/beacon.png"
+            "26.1.1/assets/minecraft/textures/gui/container/beacon.png"
+            "26.1.2/assets/minecraft/textures/gui/container/beacon.png"
+            "26.2/assets/minecraft/textures/gui/container/beacon.png"
+        )
+    },
+
+    @{
+        source = "container/blast_furnace.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.1/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.2/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.3/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.4/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.5/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.6/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.7/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.8/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.9/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.10/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "1.21.11/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "26.1/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "26.1.1/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "26.1.2/assets/minecraft/textures/gui/container/blast_furnace.png"
+            "26.2/assets/minecraft/textures/gui/container/blast_furnace.png"
+        )
+    },
+
+    @{
+        source = "container/brewing_stand.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.1/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.2/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.3/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.4/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.5/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.6/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.7/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.8/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.9/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.10/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "1.21.11/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "26.1/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "26.1.1/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "26.1.2/assets/minecraft/textures/gui/container/brewing_stand.png"
+            "26.2/assets/minecraft/textures/gui/container/brewing_stand.png"
+        )
+    },
+
+    @{
+        source = "container/cartography_table.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.1/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.2/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.3/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.4/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.5/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.6/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.7/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.8/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.9/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.10/assets/minecraft/textures/gui/container/cartography_table.png"
+            "1.21.11/assets/minecraft/textures/gui/container/cartography_table.png"
+            "26.1/assets/minecraft/textures/gui/container/cartography_table.png"
+            "26.1.1/assets/minecraft/textures/gui/container/cartography_table.png"
+            "26.1.2/assets/minecraft/textures/gui/container/cartography_table.png"
+            "26.2/assets/minecraft/textures/gui/container/cartography_table.png"
+        )
+    },
+
+    @{
+        source = "container/crafter.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.1/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.2/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.3/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.4/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.5/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.6/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.7/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.8/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.9/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.10/assets/minecraft/textures/gui/container/crafter.png"
+            "1.21.11/assets/minecraft/textures/gui/container/crafter.png"
+            "26.1/assets/minecraft/textures/gui/container/crafter.png"
+            "26.1.1/assets/minecraft/textures/gui/container/crafter.png"
+            "26.1.2/assets/minecraft/textures/gui/container/crafter.png"
+            "26.2/assets/minecraft/textures/gui/container/crafter.png"
+        )
+    },
+
+    @{
+        source = "container/crafting_table.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.1/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.2/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.3/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.4/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.5/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.6/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.7/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.8/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.9/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.10/assets/minecraft/textures/gui/container/crafting_table.png"
+            "1.21.11/assets/minecraft/textures/gui/container/crafting_table.png"
+            "26.1/assets/minecraft/textures/gui/container/crafting_table.png"
+            "26.1.1/assets/minecraft/textures/gui/container/crafting_table.png"
+            "26.1.2/assets/minecraft/textures/gui/container/crafting_table.png"
+            "26.2/assets/minecraft/textures/gui/container/crafting_table.png"
+        )
+    },
+    
+    @{
+        source = "container/creative-inventory.items.png"
+        target = @(
+            # 26
+            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            
+            # 1.21
+            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+        )
+    }
+    @{
+        source = "container/creative-inventory.player-inventory.png"
+        target = @(
+            # 26
+            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            
+            # 1.21
+            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+        )
+    },
+    @{
+        source = "container/creative-inventory.search.png"
+        target = @(
+            # 26
+            "26.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "26.1.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "26.1.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "26.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+
+            # 1.21
+            "1.21.11/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.10/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.9/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.8/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.7/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.6/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.5/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.4/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.3/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.2/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21.1/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+            "1.21/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+        )
+    },
+    @{
+        source = "container/dispenser.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.1/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.2/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.3/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.4/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.5/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.6/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.7/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.8/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.9/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.10/assets/minecraft/textures/gui/container/dispenser.png"
+            "1.21.11/assets/minecraft/textures/gui/container/dispenser.png"
+            "26.1/assets/minecraft/textures/gui/container/dispenser.png"
+            "26.1.1/assets/minecraft/textures/gui/container/dispenser.png"
+            "26.1.2/assets/minecraft/textures/gui/container/dispenser.png"
+            "26.2/assets/minecraft/textures/gui/container/dispenser.png"
+        )
+    },
+
+    @{
+        source = "container/enchanting_table.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.1/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.2/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.3/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.4/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.5/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.6/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.7/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.8/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.9/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.10/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "1.21.11/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "26.1/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "26.1.1/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "26.1.2/assets/minecraft/textures/gui/container/enchanting_table.png"
+            "26.2/assets/minecraft/textures/gui/container/enchanting_table.png"
+        )
+    },
+    @{
+        source = "container/furnace.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.1/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.2/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.3/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.4/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.5/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.6/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.7/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.8/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.9/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.10/assets/minecraft/textures/gui/container/furnace.png"
+            "1.21.11/assets/minecraft/textures/gui/container/furnace.png"
+            "26.1/assets/minecraft/textures/gui/container/furnace.png"
+            "26.1.1/assets/minecraft/textures/gui/container/furnace.png"
+            "26.1.2/assets/minecraft/textures/gui/container/furnace.png"
+            "26.2/assets/minecraft/textures/gui/container/furnace.png"
+        )
+    },
+    @{
+        source = "container/generic_54.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.1/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.2/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.3/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.4/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.5/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.6/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.7/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.8/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.9/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.10/assets/minecraft/textures/gui/container/generic_54.png"
+            "1.21.11/assets/minecraft/textures/gui/container/generic_54.png"
+            "26.1/assets/minecraft/textures/gui/container/generic_54.png"
+            "26.1.1/assets/minecraft/textures/gui/container/generic_54.png"
+            "26.1.2/assets/minecraft/textures/gui/container/generic_54.png"
+            "26.2/assets/minecraft/textures/gui/container/generic_54.png"
+        )
+    },
+    @{
+        source = "container/grindstone.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.1/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.2/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.3/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.4/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.5/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.6/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.7/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.8/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.9/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.10/assets/minecraft/textures/gui/container/grindstone.png"
+            "1.21.11/assets/minecraft/textures/gui/container/grindstone.png"
+            "26.1/assets/minecraft/textures/gui/container/grindstone.png"
+            "26.1.1/assets/minecraft/textures/gui/container/grindstone.png"
+            "26.1.2/assets/minecraft/textures/gui/container/grindstone.png"
+            "26.2/assets/minecraft/textures/gui/container/grindstone.png"
+        )
+    },
+    @{
+        source = "container/hopper.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.1/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.2/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.3/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.4/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.5/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.6/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.7/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.8/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.9/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.10/assets/minecraft/textures/gui/container/hopper.png"
+            "1.21.11/assets/minecraft/textures/gui/container/hopper.png"
+            "26.1/assets/minecraft/textures/gui/container/hopper.png"
+            "26.1.1/assets/minecraft/textures/gui/container/hopper.png"
+            "26.1.2/assets/minecraft/textures/gui/container/hopper.png"
+            "26.2/assets/minecraft/textures/gui/container/hopper.png"
+        )
+    },
+    @{
+        source = "hotbar_offhand_left.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "26.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+            "26.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+        )
+    },
+    @{
+        source = "hotbar_offhand_right.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "26.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+            "26.2/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+        )
+    },
+    @{
+        source = "hotbar_selection.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "26.1/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+            "26.2/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+        )
+    },
+    @{
+        source = "hotbar.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "26.1/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+            "26.2/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
         )
     }
 )
