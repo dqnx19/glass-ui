@@ -693,7 +693,49 @@ $files = @(
             "26.1.2/assets/minecraft/textures/gui/recipe_book.png"
             "26.2/assets/minecraft/textures/gui/recipe_book.png"
         )
+    },
+    @{
+        source = "recipe-book/button.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "26.1/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+            "26.2/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+        )
+    },
 
+    @{
+        source = "recipe-book/button_highlighted.png"
+        target = @(
+            "1.21/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.1/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.2/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.3/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.4/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.5/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.6/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.7/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.8/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.9/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.10/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "1.21.11/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "26.1/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "26.1.1/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "26.1.2/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+            "26.2/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+        )
     }
 )
 
